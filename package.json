@@ -1,0 +1,24 @@
+{
+  "name": "visual",
+  "scripts": {
+    "pbiviz": "pbiviz",
+    "start": "pbiviz start",
+    "package": "pbiviz package"
+  },
+  "dependencies": {
+    "@babel/polyfill": "7.0.0",
+    "@babel/runtime": "^7.2.0",
+    "@babel/runtime-corejs2": "^7.2.0",
+    "@progress/kendo-ui": "^2019.1.424",
+    "@types/kendo-ui": "^2019.1.2",
+    "powerbi-visuals-api": "~2.2.0",
+    "powerbi-visuals-utils-dataviewutils": "2.0.1"
+  },
+  "devDependencies": {
+    "less": "^3.9.0",
+    "less-loader": "^5.0.0",
+    "mini-css-extract-plugin": "^0.6.0",
+    "ts-loader": "^4.5.0",
+    "typescript": "^3.0.1"
+  }
+}

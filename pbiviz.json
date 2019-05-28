@@ -1,0 +1,26 @@
+{
+    "visual": {
+        "name": "kendogrid",
+        "displayName": "kendogrid",
+        "guid": "kendogrid19A1AB9418774C21A5DF0262B04B7CCE",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "",
+        "supportUrl": "",
+        "gitHubUrl": ""
+    },
+    "apiVersion": "2.2.0",
+    "author": {
+        "name": "",
+        "email": ""
+    },
+    "assets": {
+        "icon": "assets/icon.png"
+    },
+    "externalJS": [
+  ],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
